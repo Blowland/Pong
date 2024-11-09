@@ -1,0 +1,4 @@
+Hello Gamers! Thank you for downloading Pong, I hope you enjoy playing the game as much as I enjoyed making it.
+There is a chance that an error may pop up while you play, just close the message and continue playing. The controls
+for player A are W for up and S for down, Player A is the one on the left. The controls for Player B are UP arrow keys
+to go up and down arrow keys to go down.I hope you enjoy the Game!
